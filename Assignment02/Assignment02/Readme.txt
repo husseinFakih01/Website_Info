@@ -1,0 +1,1 @@
+This is a C program that takes in a name of a machine, and it will display the official name, list of aliasis, list of IP addresses, and the execution time.
